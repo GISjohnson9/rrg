@@ -1,6 +1,6 @@
 # A base map of arches in the Red River Gorge
 
-[Link to GeoPDF](rrg/RRG_map.pdf)
+[Link to GeoPDF](mattjohnson/MattsGIS/rrg/RRG_map.pdf)
 
 # Photos of arches in the region
 
