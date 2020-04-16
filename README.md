@@ -16,7 +16,4 @@ Silvermine Arch
 
 Whittleton Arch
 
-All photos are courtesy of redrivergorge.com
-
-
-
+All photos are courtesy of http://redrivergorgearches.com/RRG_Arches_V1.html#ROW3
